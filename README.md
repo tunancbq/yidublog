@@ -1,4 +1,5 @@
 # Astro Theme Pure
+[![使用 EdgeOne Pages 部署](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://console.cloud.tencent.com/edgeone/pages/new?repository-url=[YOUR_REPO_URL](https://github.com/tunancbq/yidublog))
 
 English | [简体中文](./README-zh-CN.md)
 
